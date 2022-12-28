@@ -1,6 +1,4 @@
-# Best Me APP
-
-<div align:"center">
+## Best Me APP
 
 O ***Best Me APP*** nada mais é que um sistema simples desenvolvido com *JavaScript*  
 enquanto eu acompanhava o módulo de *NodeJS* na *Trilha Fundamentar* da *Rocketseat*.
@@ -11,5 +9,3 @@ enquanto eu acompanhava o módulo de *NodeJS* na *Trilha Fundamentar* da *Rocket
 ![Exemplo](img/example1.jpg)
 
 ![Exemplo](img/example2.jpg)
-
-</div>
